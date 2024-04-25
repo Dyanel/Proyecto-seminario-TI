@@ -1,0 +1,46 @@
+/* estilovalor.css */
+
+/* Set font family to Arial, sans-serif */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Set text color to black */
+body {
+    color: black;
+}
+
+/* Set background color to Oro */
+body {
+    background-color: rgb(189, 149, 0);
+}
+
+/* Navbar text color */
+.navbar-nav .nav-link {
+    color: rgb(189, 149, 0); /* Oro */
+}
+
+/* Navbar background color */
+.navbar {
+    background-color: black; /* Negro */
+}
+
+/* Active navbar item text color */
+.navbar-nav .nav-item.active .nav-link {
+    color: rgb(8, 36, 90); /* Azul */
+}
+
+/* Navbar toggle button color */
+.navbar-toggler-icon {
+    background-color: black; /* Negro */
+}
+
+/* Card background color */
+.bg-info {
+    background-color: rgb(8, 36, 90); /* Azul */
+}
+
+/* Card text color */
+.text-black {
+    color: black; /* Negro */
+}
