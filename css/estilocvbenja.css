@@ -1,0 +1,31 @@
+    .foto {
+      max-width: 100%;
+      height: auto;
+    }
+    /* Estilos personalizados con la paleta de colores */
+    body {
+      background-color: #D59F0F;
+      color: #FFFFFF; /* Texto en color blanco */
+    }
+    h2, h4 {
+      color: #5DEBD7; /* Títulos en color blanco */
+    }
+    p {
+      color: #FFFFFF; /* Texto secundario en color blanco */
+      margin-bottom: 5px; /* Espacio entre los párrafos */
+      display: flex;
+      align-items: center;
+    }
+    .container-detalle {
+      background-color: #002B7A; /* Color de fondo para los contenedores de detalles */
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .container-sobre, .container-personal, .container-experiencia {
+      background-color: #002B7A; /* Color de fondo para los otros contenedores */
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      border-color: black;
+    }

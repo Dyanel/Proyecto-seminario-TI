@@ -1,0 +1,44 @@
+/* Modificamos las clases de padding para ajustar el diseño */
+.custom-padding-left {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.custom2-padding, .custom3-padding, .custom-padding-nav {
+    border-radius: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.square-image, .image-tmn {
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.carusel-img {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #BD9500;
+}
+.logo {
+    width: 70px;
+    height: 80px;
+}
+.text-justify {
+    text-align: justify;
+}
+.color-2 {background-color: #08245A;}
+.color-1 {background-color: #BD9500;}
+.color-3 {background-color: #000000;}
+.color-4 {background-color: #fff;}
+.colortext-2 {color: #08245A;}
+.colortext-1 {color: #BD9500;}
+.colortext-3 {color: #000000;}
+.colortext-4 {color: #fff;}
